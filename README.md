@@ -8,7 +8,7 @@
 
 <h4 align="center"> Welcome to Poesy, where your poetry masterpieces come to life!</h4>
 
-
+![screenshot](src/assets/poesy.gif)
 
 ## Overview
 This attempt at solving Code Challenge 1 of Phase 2 aims to demonstrate an understanding of React fundamentals, user interaction, and responsiveness. Users can view existing poems, toggle a form to create new ones, and mark poems as read or unread.
