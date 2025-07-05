@@ -11,7 +11,7 @@
 ![screenshot](src/assets/poesy.gif)
 
 ## Overview
-This attempt at solving Code Challenge 1 of Phase 2 aims to demonstrate an understanding of React fundamentals, user interaction, and responsiveness. Users can view existing poems, toggle a form to create new ones, and mark poems as read or unread.
+This attempt aims to demonstrate an understanding of React fundamentals, user interaction, and responsiveness. Users can view existing poems, toggle a form to create new ones, and mark poems as read or unread.
 
 ## Key Features
 
@@ -48,10 +48,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Moringa-SDF-PT10/poesy-douglas-gatimu
+$ git clone git@github.com:douglasgatimu/poesy.git
 
 # Go into the repository
-$ cd poesy-douglas-gatimu
+$ cd poesy
 
 # Install dependencies
 $ npm install
@@ -63,7 +63,7 @@ $ npm run dev
 ## File Structure
 
 ```
-poesy-douglas-gatimu/
+poesy/
 ├── public/
 ├── src/
 |   ├── assets
